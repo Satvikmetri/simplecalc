@@ -1,0 +1,1 @@
+Coding Elegance: Unleashing the Power of Simplicity with a Stylish Calculator. HTML, CSS, and Inline JS come together in perfect harmony, adorned with aesthetic colors for a delightful user experience.
